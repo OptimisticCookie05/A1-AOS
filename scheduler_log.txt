@@ -1,0 +1,8 @@
+2026-03-22 20:48:39 - Job submitted: 100094639, jobA, priority 4
+2026-03-22 20:48:56 - Job submitted: 100094639, jobB, priority 2
+2026-03-22 20:49:07 - Job submitted: 100094639, jobC, priority 8
+2026-03-22 20:49:20 - Job submitted: 100094639, jobD, priority 1
+2026-03-22 20:50:04 - Executing job (PRIORITY): 100094639 - jobC
+2026-03-22 20:50:05 - Executing job (PRIORITY): 100094639 - jobA
+2026-03-22 20:50:06 - Executing job (PRIORITY): 100094639 - jobB
+2026-03-22 20:50:07 - Executing job (PRIORITY): 100094639 - jobD
